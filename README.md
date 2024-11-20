@@ -24,10 +24,6 @@
 <p>为了减少蚁云流量机场跑路倒闭的损失，我们强烈推荐一款高速稳定的机场梯子 – DOVE加速器。作为蚁云流量机场的备选替代方案，当蚁云流量机场加速器不能用时，DOVE加速器的平替可以确保您的网络使用不受影响。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>加速器名称</strong></td><td><strong>产品优势</strong></td><td><strong>免费试用</strong></td><td><strong>官网地址</strong></td></tr><tr><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">DOVE加速器</a></strong></td><td>新手必备一键连接，最稳定的上外网梯子工具</td><td>注册账户，即可试用4小时</td><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">点击注册</a></strong></td></tr></tbody></table></figure>
-<!-- /wp:table -->
-
 <!-- wp:image -->
 <figure class="wp-block-image"><img src="https://www.leavescn.com/Files/images/20240404/4aed85a3336f4c30a3af1defe963e8d5.png" alt="推荐分享高速稳定，好用靠谱的梯子机场上网软件-DOVE加速器"/></figure>
 <!-- /wp:image -->
